@@ -1,2 +1,4 @@
-# review_analysis
-Sentiment analysis in different kind of web reviews
+# Review Analysis
+Sentiment analysis for different kinds of web products and sites.
+
+Data Source from multiple Kaggle repositories
